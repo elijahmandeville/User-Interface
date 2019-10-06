@@ -125,6 +125,14 @@ div .get-started-text {
 	border-width: 1px;
 	border-spacing: 50px;
 	padding: 10px;
+	transition-property: border-color, color, background-color;
+	transition-duration: 0.3s;
+}
+
+div .get-started-text:hover {
+	border-color: white;
+	background-color: black;
+	color: white;
 }
 
 .page-top .header-img {
