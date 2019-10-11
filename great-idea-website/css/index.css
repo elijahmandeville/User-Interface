@@ -27,10 +27,10 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
-}
+} 
 body {
 	line-height: 1;
-}
+} 
 ol, ul {
 	list-style: none;
 }
@@ -66,8 +66,8 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 body {
-	padding-left: 10%;
-	padding-right: 10%;
+	padding-left: 15%;
+	padding-right: 15%;
 	padding-top: 1.2%;
 }
 
@@ -93,7 +93,7 @@ header a:hover {
 .header-img {
 	height: 330px;
 	padding-top: 30px;
-	padding-right: 15%;
+	padding-right: 4%;
 }
 
 .page-top {
@@ -102,7 +102,7 @@ header a:hover {
 
 .page-top-text {
 	font-size: 50px;
-	padding-top: 70px;
+	padding-top: 75px;
 	text-align: center;
 }
 
@@ -143,7 +143,7 @@ div .get-started-text:hover {
 .top-line {
 	box-sizing: border-box;
 	background-color: gray;
-	height: 3px;
+	height: 1px;
 	margin-top: 400px;
 	margin-bottom: 17px;
 }
@@ -165,7 +165,7 @@ div .get-started-text:hover {
 }
 
 .middle-img {
-	padding-left: 7%;
+	padding-left: 1%;
 	padding-bottom: 45px;
 }
 
@@ -194,7 +194,7 @@ div .get-started-text:hover {
 .line-bottom {
 	box-sizing: border-box;
 	background-color: gray;
-	height: 3px;
+	height: 1px;
 	margin-top: 40px;
 	margin-bottom: 17px;
 }
